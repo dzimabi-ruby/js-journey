@@ -34,3 +34,10 @@ console.log(isOdd(4));
 console.log(isOdd(97));
 console.log(isOdd(45));
 
+function deen(memo) {
+   if (memo%2===0) {return "Mummie"}
+   else {return "daddie"} 
+}
+console.log(deen(4))
+
+ 
